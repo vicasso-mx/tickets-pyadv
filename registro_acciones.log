@@ -1,0 +1,12 @@
+2026-10-15 08:19:04 | TicketSoporte | TK-001 | atender | Abierto -> En proceso
+2026-10-15 08:19:04 | TicketSoporte | TK-001 | atender | Abierto -> En proceso
+2026-10-15 08:19:04 | TicketDesarrollo | TK002 | atender | Abierto -> En proceso
+2026-10-15 08:19:04 | TicketDesarrollo | TK002 | atender | Abierto -> En proceso
+2026-10-15 08:19:04 | TicketInfraestructura | TK-003 | atender | Abierto -> En proceso
+2026-10-15 08:19:04 | TicketInfraestructura | TK-003 | atender | Abierto -> En proceso
+2026-10-15 08:19:04 | TicketSoporte | TK004 | atender | Abierto -> En proceso
+2026-10-15 08:19:04 | TicketSoporte | TK004 | atender | Abierto -> En proceso
+2026-10-15 08:19:04 | TicketDesarrollo | TK-005 | atender | Abierto -> En proceso
+2026-10-15 08:19:04 | TicketDesarrollo | TK-005 | atender | Abierto -> En proceso
+2026-10-15 08:19:04 | TicketDesarrollo | TK002 | cambiar_estado | En proceso -> Cerrado
+2026-10-15 08:19:04 | TicketSoporte | TK-001 | cerrar | En proceso -> Cerrado
